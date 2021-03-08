@@ -5,3 +5,6 @@ Simple app that provides a list of images on the home-page. You can click on an 
 
 ## Things learned
 FileManager, App Bundles, Image Views, Table Views, Typecasting, View Controllers, Storyboards, Outlets, AutoLayout, UIImage
+
+## New learnings
+UIActivityViewController to share images by iMessage, email, twitter, facebook, save to library etc.
